@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  VideoCallDemo
+
+  Created by Daniele Salvioni on 20/02/22.
+  
+*/
+
+// ROOT
+"Root.title" = "Home";
+"Root.login.button.title" = "login";
+"Root.logout.button.title" = "logout";
+"Root.contactList.button.title" = "contacts";
+"Root.error.token" = "error in auth process";
+
+// LOGIN
+"Login.title" = "Login";
+"Login.username.placeholder.title" = "username";
+"Login.password.placeholder.title" = "password";
+"Login.login.button.title" = "login";
+"Login.login.error.credentials" = "wrong credentials";
+
+// CONTACTS
+"ContactList.title" = "Contact List";
+"ContactList.call.button.title" = "start call";
+"ContactList.error.token" = "error in auth process";
+"ContactList.error.tooLessContacts" = "select more contacts";
+
+// Call
+"Call.title" = "Conversation";
+"Call.hangup.button.title" = "Close";
+"Call.error.token" = "error in auth process";
+s = "error in connection process";
